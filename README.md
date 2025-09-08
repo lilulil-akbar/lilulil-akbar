@@ -33,7 +33,8 @@ Saya seorang **enthusiast cybersecurity** dan **network engineer** yang mengeksp
 </div>
 
 ## 🚀 Featured Projects
-- **[Secure FTP Server](https://github.com/lilulil-akbar/ftps-vm-docs)**: Konfigurasi FTP Server pada Ubuntu dengan implementasi keamanan SSL/TLS.
+- **Explore my offensive security projects**: [Red Team Labs](https://github.com/lilulil-akbar/red-team-labs).
+- **See my ftp server self-projects**: [Secure FTP Server](https://github.com/lilulil-akbar/ftps-vm-docs).
 
 ## 📫 Connect with Me
 [<img align="left" alt="Email" width="22px" src="https://cdn.simpleicons.org/gmail/EF5350" />](mailto:ulil.akbar049@gmail.com)

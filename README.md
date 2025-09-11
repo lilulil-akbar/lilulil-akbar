@@ -1,12 +1,12 @@
 # 🔒 Ulil Akbar - Cybersecurity Guardian & Network Engineer 👾
 
-Saya seorang **enthusiast cybersecurity** dan **network engineer** yang mengeksplorasi sistem komputer layaknya taman bermain, berperan sebagai penjaga keamanan untuk melindungi dunia digital dan mengelola infrastruktur jaringan yang tangguh. Fokus saya adalah **pentesting** (red team & blue team) serta merancang jaringan yang aman dan efisien! 🌐💻
+Saya seorang **enthusiast cybersecurity** dan **network engineer** yang suka mengeksplorasi sistem komputer layaknya taman bermain, berperan sebagai penjaga keamanan untuk melindungi dunia digital dan mengelola infrastruktur jaringan yang tangguh. Fokus saya adalah **pentesting** (red team & blue team) serta merancang jaringan yang aman dan efisien! 🌐💻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=40&pause=1000&color=00FF00&left=true&vCenter=true&width=500&lines=CYBERSECURITY;PENTESTING;NETWORK+ENGINEERING;RED+TEAM;BLUE+TEAM;SECURE+SYSTEMS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=40&pause=1000&color=00FF00&left=true&vCenter=true&width=500&lines=CYBERSECURITY;PENTESTING;ETHICAL+HACKING;NETWORK+ENGINEERING;RED+TEAM;BLUE+TEAM;SECURE+SYSTEMS" alt="Typing SVG" />
 
 ## 🛡️ About Me
 - 🔍 **Passion**: Mengeksplorasi sistem komputer dan jaringan seperti taman digital, memastikan keamanan dan performa optimal.
-- ⚡ **Praktik**: Berlatih cybersecurity melalui proyek mandiri di **VirtualBox** untuk simulasi pentesting, serta mengelola infrastruktur jaringan.
+- ⚡ **Praktik**: Berlatih cybersecurity melalui proyek mandiri di **VirtualBox** untuk simulasi pentesting etis, serta mengelola infrastruktur jaringan.
 - 🎯 **Fokus**: Mengasah keahlian di red team (offensive security), blue team (defensive security), dan network engineering.
 - 💾 **Misi**: Membangun sistem dan jaringan yang aman dengan pendekatan kreatif dan teknis.
 
@@ -39,8 +39,8 @@ Saya seorang **enthusiast cybersecurity** dan **network engineer** yang mengeksp
 ## 📫 Connect with Me
 [<img align="left" alt="Email" width="22px" src="https://cdn.simpleicons.org/gmail/EF5350" />](mailto:ulil.akbar049@gmail.com)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />](https://instagram.com/_ulil.akbar_)
-
-<br /> Reach out for collabs on pentesting projects or CTF challenges!
+<br /> 
+Reach out for collabs on pentesting projects or CTF challenges!
 
 ## 🔐 Quote
 > "Systems are playgrounds; I’m the guardian ensuring the gates are locked." – Ulil Akbar

@@ -34,13 +34,14 @@ Saya seorang **enthusiast cybersecurity** dan **network engineer** yang suka men
 
 ## 🚀 Featured Projects
 - **Explore my offensive security projects**: [Red Team Labs](https://github.com/lilulil-akbar/red-team-labs).
-- **Explore my solved CTF (Capture The Flags)**: [CTF Write-ups](https://github.com/lilulil-akbar/ctf-writeups)).
+- **Explore my solved CTF (Capture The Flags)**: [CTF Write-ups](https://github.com/lilulil-akbar/ctf-writeups).
 - **See my ftp server self-projects**: [Secure FTP Server](https://github.com/lilulil-akbar/ftps-vm-docs).
 
 ## 📫 Connect with Me
 [<img align="left" alt="Email" width="22px" src="https://cdn.simpleicons.org/gmail/EF5350" />](mailto:ulil.akbar049@gmail.com)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />](https://instagram.com/_ulil.akbar_)
 <br /> 
+
 Reach out for collabs on pentesting projects or CTF challenges!
 
 ## 🔐 Quote
